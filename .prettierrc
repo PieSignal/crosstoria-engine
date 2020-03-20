@@ -2,5 +2,9 @@
   "prettier.singleQuote": true,
   "prettier.eslintIntegration": true,
   "prettier.tabWidth": 2,
-  "prettier.useTabs": false
+  "prettier.useTabs": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true
 }
